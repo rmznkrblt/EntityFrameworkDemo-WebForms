@@ -1,0 +1,15 @@
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+G:\Project\c# project\GitHub\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
